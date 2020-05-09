@@ -5,10 +5,10 @@ Modular Pegboard Test for MS Patients
 
 Original team consists of:
   
-  Nohelly Derosiers
-  Rodrigo Guerra
-  George Kenefati
-  Diana Madho
-  Vadim Mell
-  Kyle Schepis
+  Nohelly Derosiers, 
+  Rodrigo Guerra, 
+  George Kenefati, 
+  Diana Madho, 
+  Vadim Mell, 
+  Kyle Schepis, 
   Christo Vairamon
